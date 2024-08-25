@@ -3,5 +3,6 @@ public class datatypes {
 int a=2,b=3,c=4;
 System.out.println(a+b);
         System.out.println(a+c);
+        System.out.println(b+c);
     }
 }
